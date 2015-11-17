@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=tamanho\ peso\ nome\ descricao
+comment0.target=Defesa(int,\ int,\ java.lang.String,\ java.lang.String)
+comment0.text=\n\ COnstrutor\ para\ objetos\ da\ classe\ Defesa\n
+comment1.params=
+comment1.target=void\ calculacapacidadeDeDefesa()
+comment2.params=capacidadeDeAtaqueInimigo\ capacidadeDeDefesaInimigo
+comment2.target=void\ Desgaste(int,\ int)
+comment3.params=recuperacao
+comment3.target=void\ ferreiro(int)
+numComments=4

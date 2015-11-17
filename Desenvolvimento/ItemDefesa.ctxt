@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=tamanho\ peso\ nome\ descricao
+comment0.target=ItemDefesa(int,\ int,\ java.lang.String,\ java.lang.String)
+comment1.params=peso
+comment1.target=void\ DeixaMaisLeve(int)
+comment2.params=tamanho
+comment2.target=void\ aumentaAreaDeProtecao(int)
+comment3.params=peso
+comment3.target=void\ deixaMaisPesado(int)
+comment4.params=tamanho
+comment4.target=void\ diminueAreaDeProtecao(int)
+comment5.params=
+comment5.target=int\ gettamanho()
+comment6.params=
+comment6.target=int\ getpeso()
+numComments=7

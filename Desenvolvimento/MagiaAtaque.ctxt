@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.params=nome\ descricao\ capacidadeDeAtaque
+comment0.target=MagiaAtaque(java.lang.String,\ java.lang.String,\ int)
+comment0.text=\n\ COnstrutor\ para\ objetos\ da\ classe\ MagiaAtaque\n
+comment1.params=
+comment1.target=int\ ataque()
+numComments=2

@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.params=nome\ descricao
+comment0.target=Magia(java.lang.String,\ java.lang.String)
+comment0.text=\n\ COnstrutor\ para\ objetos\ da\ classe\ Magia\n
+comment1.params=
+comment1.target=void\ validadeMagia()
+comment2.params=
+comment2.target=int\ getvalidadeMagia()
+numComments=3

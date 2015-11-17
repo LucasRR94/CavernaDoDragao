@@ -1,0 +1,6 @@
+Interação com objetos da sala.
+Escrever itens magicos.
+Escrecer Vilões
+Definir a evolução da sala atraveś da luta.
+Adicionar moedas
+Testar.
