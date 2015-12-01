@@ -1,0 +1,20 @@
+chefe
+raal al guul
+9
+10
+2
+100
+MagiaAtaque
+fogododragao
+fogo vindo de um dragao morto
+9
+chefe
+baine
+8
+5
+120
+MagiaDefesa
+Escudolua
+Escudo em forma de lua protetor dos justos
+8
+
